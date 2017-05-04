@@ -1,0 +1,5 @@
+C:\Users\afei\Source\Repos\AIR\AddComma\bin\Debug\AddComma.exe.config
+C:\Users\afei\Source\Repos\AIR\AddComma\bin\Debug\AddComma.exe
+C:\Users\afei\Source\Repos\AIR\AddComma\bin\Debug\AddComma.pdb
+C:\Users\afei\Source\Repos\AIR\AddComma\obj\Debug\AddComma.exe
+C:\Users\afei\Source\Repos\AIR\AddComma\obj\Debug\AddComma.pdb

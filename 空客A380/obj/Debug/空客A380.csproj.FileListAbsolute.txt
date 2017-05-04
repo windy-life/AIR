@@ -1,0 +1,21 @@
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\bin\Debug\空客A380.exe.config
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\bin\Debug\空客A380.exe
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\bin\Debug\空客A380.pdb
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\obj\Debug\空客A380.csprojResolveAssemblyReference.cache
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\obj\Debug\空客A380.Form1.resources
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\obj\Debug\空客A380.Properties.Resources.resources
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\obj\Debug\空客A380.csproj.GenerateResource.Cache
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\obj\Debug\空客A380.exe
+c:\users\afei\documents\visual studio 2015\Projects\空客A380\空客A380\obj\Debug\空客A380.pdb
+C:\Users\afei\Desktop\空客A380\空客A380\bin\Debug\空客A380.exe.config
+C:\Users\afei\Desktop\空客A380\空客A380\obj\Debug\空客A380.exe
+C:\Users\afei\Desktop\空客A380\空客A380\obj\Debug\空客A380.pdb
+C:\Users\afei\Source\Repos\AIR\空客A380\bin\Debug\空客A380.exe.config
+C:\Users\afei\Source\Repos\AIR\空客A380\obj\Debug\空客A380.exe
+C:\Users\afei\Source\Repos\AIR\空客A380\obj\Debug\空客A380.pdb
+C:\Users\afei\Source\Repos\AIR\空客A380\bin\Debug\空客A380.exe
+C:\Users\afei\Source\Repos\AIR\空客A380\bin\Debug\空客A380.pdb
+C:\Users\afei\Source\Repos\AIR\空客A380\obj\Debug\空客A380.csprojResolveAssemblyReference.cache
+C:\Users\afei\Source\Repos\AIR\空客A380\obj\Debug\空客A380.Form1.resources
+C:\Users\afei\Source\Repos\AIR\空客A380\obj\Debug\空客A380.Properties.Resources.resources
+C:\Users\afei\Source\Repos\AIR\空客A380\obj\Debug\空客A380.csproj.GenerateResource.Cache
